@@ -1,1 +1,10 @@
+1-Feb : Overall explanation on all java topics
+2-Feb : core java basics
+3-Feb : Git bash and Github creation
+4-Feb : Git flow and PR
 5-Feb : Layered arc.. and core java...
+6-Feb : Documents: BRD, Microservices docs and TDD
+7-Feb : Rally, core java... 
+
+20-Feb: Loggingg, defects reproduce,kibana,rest client, postman
+21-Feb: Core java: constructors, this, composition, s.o.p explanation
